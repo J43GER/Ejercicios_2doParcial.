@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Visual_Studio_Code
 {
-   /* 12 -Crear una aplicación que simule una maquina expendora
+   /* 11 -Crear una aplicación que simule una maquina expendora
       de alimentos. Debe tener un maximo de 10 productos y solo
       debe aceptar monedas (5,10,25) y billetes (50,100 y 200).
       
