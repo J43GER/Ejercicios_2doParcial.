@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Visual_Studio_Code
 {
-   /* 11 - Crear un programa que permita cargar los nombres de 5 empleados y sus salarios respectivos.
+   /* 12 - Crear un programa que permita cargar los nombres de 5 empleados y sus salarios respectivos.
    Mostrar el salario mayor y el nombre del empleado.
    
    Crear un metodo para Cargar.
